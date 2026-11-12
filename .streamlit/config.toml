@@ -1,0 +1,11 @@
+# Tema claro fijo: las figuras de la aplicación usan la misma escala de grises sobre fondo
+# blanco que las del informe, y con el tema oscuro quedarían como recuadros claros sueltos.
+[theme]
+base = "light"
+primaryColor = "#2f4858"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f4f6"
+textColor = "#111827"
+
+[browser]
+gatherUsageStats = false

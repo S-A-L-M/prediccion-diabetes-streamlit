@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Salida intermedia del cuaderno (última celda del segundo corte). La versión que usa la
+# aplicación es datos/diabetes_preparado.csv, que sí está versionada.
+diabetes_avance2.csv
