@@ -7,8 +7,8 @@ Docente: José Escorcia-Gutiérrez, Ph.D. · Tercer corte — Actividad 1: integ
 
 | | |
 |---|---|
-| **Aplicación** | _(pegar aquí la URL pública de Streamlit)_ |
-| **Repositorio** | _(pegar aquí la URL de este repositorio)_ |
+| **Aplicación** | _https://prediccion-diabetes-app-afboa9wrbff8jcd8shchrt.streamlit.app/_ |
+| **Repositorio** | _https://github.com/S-A-L-M/prediccion-diabetes-streamlit_ |
 | **Datos** | [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) — NIDDK / UCI Machine Learning Repository |
 
 > Clasificación binaria sobre 768 registros clínicos. El modelo se elige por su capacidad de **detectar los casos positivos**, no por su exactitud global, porque en un tamizaje un falso negativo cuesta mucho más que un falso positivo.
